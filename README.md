@@ -8,4 +8,7 @@
 >[데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
 >> 주로 상단의 링크를 통해 공부하고 있습니다. 예제를 풀어보면서 프로그래밍에 익숙해지고 있습니다.
 -----------------------------
-## 분류
+## 프로젝트
+1) Kaggle Future sales prediction
+2) DD 웹캠을 통한 자세판별 프로젝트 모델 담당 [이동](https://github.com/FlamingBGJ/pose_tracking_project_class1)
+3) 시각장애인을 위한 고지서 인식 서비스
