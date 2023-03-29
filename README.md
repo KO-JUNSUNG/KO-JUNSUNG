@@ -5,6 +5,6 @@
 
 -----------------------------
 ## 프로젝트
-1) Kaggle Future sales prediction
+1) Kaggle Future sales prediction [이동](https://github.com/KO-JUNSUNG/Project_kaggle)
 2) DD 웹캠을 통한 자세판별 프로젝트 모델 담당 [이동](https://github.com/FlamingBGJ/pose_tracking_project_class1)
-3) 시각장애인을 위한 고지서 인식 서비스
+3) 시각장애인을 위한 고지서 인식 서비스 [이동](https://github.com/KO-JUNSUNG/Project_Voice) 
